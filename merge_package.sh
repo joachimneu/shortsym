@@ -18,7 +18,7 @@ cat fragments/frak.sty >> shortsym.sty
 # Greek letters
 cat fragments/greek_bold.sty >> shortsym.sty
 # cat fragments/greek_slanted_uppercase.sty >> shortsym.sty
-# cat fragments/greek_upright_lowercase.sty >> shortsym.sty
+cat fragments/greek_upright_lowercase.sty >> shortsym.sty
 # cat fragments/greek_upright_bold_lowercase.sty >> shortsym.sty
 
 # Euler letters
